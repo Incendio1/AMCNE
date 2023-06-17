@@ -1,4 +1,4 @@
-# NE-AMNC
+# AMCNE
 ## Usage Example
 ### NE-AMNC
 Cora 
@@ -20,5 +20,5 @@ python main.py --dataset Actor --runs 10 --epochs 500 --dropout 0 --normalize_fe
 ## Results
 model	|Cora	|CiteSeer	|PubMed|Cornell|Texas	|Wisconsin	|Actor
 ------ | -----  |----------- |---|--- | -----  |----------- |-------
-NE-AMNC|	88.1% |	76.8%|	90.2%|86.4%|	85.7% |	91.7%|41.6%
+AMCNE|	88.1% |	76.8%|	90.2%|86.4%|	85.7% |	91.7%|41.6%
 
